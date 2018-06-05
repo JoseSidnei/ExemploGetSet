@@ -1,1 +1,2 @@
 C:\Users\104895\Documents\Visual Studio 2013\Projects\ExemploGetSet\ExemploGetSet\bin\Debug\ExemploGetSet.exe.config
+C:\Users\104895\Documents\GitHub\ExemploGetSet\ExemploGetSet\bin\Debug\ExemploGetSet.exe.config
