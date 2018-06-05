@@ -51,7 +51,7 @@ namespace ExemploGetSet
 
             if (raca.Count() >= 40)
             {
-                throw new Exception("Raca deve ter no minimo 40 letras.");
+                throw new Exception("Raca deve ter no minimo 40 letras");
             }
             Raca = raca;
         }
